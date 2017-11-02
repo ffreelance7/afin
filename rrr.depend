@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509629528 source:/home/lan/Escritorio/rrr/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+
